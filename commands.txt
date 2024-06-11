@@ -1,0 +1,36 @@
+GUI -Graphics
+
+CLI - Command line interface
+
+* pwd -- print working directory
+> displays your current directory location.
+
+* mkdir -- make directory
+> creates a new folder in the current directory
+
+* cd -- change directory
+> allows you to move throughout your computer
+
+* ls > displays the list of contents of the current directory
+
+* touch > creates a new file in the current directory 
+
+* rm > deleting/removing a file
+
+repository - stores files and folder to a project
+types of repository
+- Local repository - version of the repository that is stored in our computer
+- remote repository - version of the repository that is stored on a server or cloud-based platform [github]
+
+git init - initialize a folder
+
+* 	git config --global user.name "<username>"
+	git config --global user.email "<email address>"
+		- sets the user's username and email address
+
+*	git config --global user.name 
+	git config --global user.email 
+		- to check if username and email address were successfully connected
+
+*	git status 
+		- displays the current status of your file/folder
